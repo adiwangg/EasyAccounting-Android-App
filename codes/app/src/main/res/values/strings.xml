@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EasyAccounting</string>
+    <string name="add_new_record">ADDING</string>
+    <string name="add_new_record_short">ADDING</string>
+
+</resources>
